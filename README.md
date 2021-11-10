@@ -1,1 +1,1 @@
-# Safe-Diet
+This program is intended for useres/patients to be able to know what food ingredient is safe for them to eat.  
